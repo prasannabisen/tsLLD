@@ -1,0 +1,1 @@
+{"version":3,"file":"WayInterface.js","sourceRoot":"","sources":["../../src/Way/WayInterface.ts"],"names":[],"mappings":"AAIA,MAAM,IAAI;IACN,IAAI;QACA,OAAO,eAAe,CAAC;IAC3B,CAAC;CACJ;AAED,MAAM,GAAG;IACL,IAAI;QACA,OAAO,cAAc,CAAC;IAC1B,CAAC;CACJ;AAED,OAAO,EAAC,GAAG,EAAE,IAAI,EAAC,CAAA"}
